@@ -1,0 +1,8 @@
+h1 {
+    color: brown;
+}
+
+.title {
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+}
